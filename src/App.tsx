@@ -49,8 +49,9 @@ const App: React.FC = () => {
           </div>
           <button onClick={randPassGen}>Generate Password</button>
           <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
-            Enter
+            Submit HERE!!!
           </a>
+          <button type="submit">S</button>
         </form>
       )}
     </div>
